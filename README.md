@@ -1,2 +1,2 @@
 # git-demo
-this is created to learn git
+this is created to learn git.
